@@ -3,7 +3,7 @@ A prototype design for a food take-away ordering app.
 
 # Screenshots
 
-![](Screens/Nearby Restaurants@2x.png)
+![](Screens/Nearby\ Restaurants@2x.png)
 
 ![](https://raw.githubusercontent.com/paramaggarwal/hungry/master/Screens/Restaurant Info@2x.png)
 
